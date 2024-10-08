@@ -132,9 +132,9 @@ git checkout <nama-branch>
 ## Git Branch Merge
 1. kita harus kembali ke branch Utama
 2. Kita merge branch utama dengan brach x
-   ```
-   git merge x
-   ```
+```
+git merge x
+```
 3. hapus branch x karena udh di merge kan tadi
 ```
 git branch -d x
